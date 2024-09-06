@@ -13,8 +13,6 @@ This is a solution to the [Product preview card component challenge on Frontend 
 - [Author](#author)
 
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -30,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution here](https://www.frontendmentor.io/solutions/product-preview-card-using-css-grid-SYoI6iFp9a)
+- Live Site URL: [Live site here](https://thaarcadeguy.github.io/product-preview/)
 
 ## My process
 
